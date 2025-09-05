@@ -1,0 +1,5 @@
+{
+  "name": "My Audit Tool For TikTok",
+  "description": "An AI-powered application that audits a TikTok profile, providing engagement rates, follower counts, and actionable growth suggestions. Includes a pro feature to download the report.",
+  "requestFramePermissions": []
+}
